@@ -1,0 +1,28 @@
+{
+  "name": "react-typescript-training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack -d --watch",
+    "build": "webpack -p"
+  },
+  "author": "Dotin",
+  "dependencies": {
+    "@types/node": "^8.0.53",
+    "@types/react": "^15.6.7",
+    "@types/react-dom": "^0.14.23",
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.4.0",
+    "babel-core": "^6.2.1",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-preset-react": "^6.1.18",
+    "source-map-loader": "^0.2.3",
+    "typescript": "^2.6.1",
+    "webpack": "^3.8.1"
+  }
+}

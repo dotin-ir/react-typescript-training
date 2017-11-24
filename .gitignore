@@ -1,0 +1,15 @@
+*.log
+*.iml
+*.iws
+.idea/
+.gradle/
+build/
+out/
+classes/
+gradleBuild/
+node_modules/
+dist/
+public/
+src/client/public
+.vscode/chrome/
+npm-debug.log*
